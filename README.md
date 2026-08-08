@@ -8,7 +8,7 @@ During my internship, I worked on a **frontend development project** focused on 
 * 💻 Used appropriate HTML tags to maintain a clear and meaningful structure
 * 🧩 Focused on clean, organized, and semantic markup
 * 🧪 Tested the HTML using the **W3C Validator**, which returned no errors
-* 🧪 Tested the HTML using the **Google Lighthouse**, which returned no errors
+* 🧪 Tested the HTML using the **Google Lighthouse**, which returned a **99 performance, 100 accessibility, 96 best practices, 91 SEO**
 * 📱 Focused on responsive layout and visual consistency
 * ⚡ Added animations to bring the static design to life **(Bonus)**
 
