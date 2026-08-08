@@ -1,9 +1,5 @@
 # decodelabs-project1
 ### Front-End Development: Static Webpage Design (bonus: it's alive)
-Got it — keeping the previous format and simply making **animations a bonus** in the features list.
-
-# 🚀 Internship Project — Frontend Development
-
 During my internship, I worked on a **frontend development project** focused on creating a clean, well-structured static webpage using proper HTML semantics and website structure.
 
 ### ✨ What I worked on
